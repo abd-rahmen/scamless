@@ -156,7 +156,3 @@ Open the local address shown in your terminal (typically `http://localhost:3000`
 
 ## 📜 Ethical Scope
 Scamless is built exclusively for defensive, educational, and protective purposes. It does not generate phishing templates and does not harvest credentials.
-
----
-
-Built by **Abd Rahmen Khemiri** and team **ZeroPhish** at DevFest Béja 2026.
